@@ -1,0 +1,11 @@
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/bin/Debug/netcoreapp2.1/ConversieTimKud.deps.json
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/bin/Debug/netcoreapp2.1/ConversieTimKud.runtimeconfig.json
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/bin/Debug/netcoreapp2.1/ConversieTimKud.runtimeconfig.dev.json
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/bin/Debug/netcoreapp2.1/ConversieTimKud.dll
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/bin/Debug/netcoreapp2.1/ConversieTimKud.pdb
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.csprojResolveAssemblyReference.cache
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.csproj.CoreCompileInputs.cache
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.AssemblyInfoInputs.cache
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.AssemblyInfo.cs
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.dll
+/Users/hungle/Projects/ConversieTimKud/ConversieTimKud/obj/Debug/netcoreapp2.1/ConversieTimKud.pdb

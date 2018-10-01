@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{AA0C3E56-AE9F-456C-AE9E-12006CE0F561}|Default" GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.ItemProperties.ConversieTimKud PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConversieTimKud/InktContainer.cs">
+    <Files>
+      <File FileName="ConversieTimKud/InktContainer.cs" Line="11" Column="1" />
+      <File FileName="ConversieTimKud/MotherFinal.xml" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
