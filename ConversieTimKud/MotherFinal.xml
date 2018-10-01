@@ -1,0 +1,1230 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resultlist>
+  <header>
+    <num_maincat>6</num_maincat>
+  </header>
+  <categories>
+    <maincat id="Brother" name="Brother" num_subcat="8">
+      <level_1 id="Brother DCP-L-serie" name="Brother DCP-L-serie" num_subcat="11">
+        <level_2 id="DCP-L2500" name="DCP-L2500" />
+        <level_2 id="DCP-L2500D" name="DCP-L2500D" />
+        <level_2 id="DCP-L2520" name="DCP-L2520" />
+        <level_2 id="DCP-L2520DW" name="DCP-L2520DW" />
+        <level_2 id="DCP-L2540" name="DCP-L2540" />
+        <level_2 id="DCP-L2540DN" name="DCP-L2540DN" />
+        <level_2 id="DCP-L2560" name="DCP-L2560" />
+        <level_2 id="DCP-L2560DW" name="DCP-L2560DW" />
+        <level_2 id="DCP-L5500DN" name="DCP-L5500DN" />
+        <level_2 id="DCP-L6600DW" name="DCP-L6600DW" />
+        <level_2 id="DCP-L6600DWT" name="DCP-L6600DWT" />
+      </level_1>
+      <level_1 id="Brother DCP-serie" name="Brother DCP-serie" num_subcat="74">
+        <level_2 id="DCP-1510" name="DCP-1510" />
+        <level_2 id="DCP-1510E" name="DCP-1510E" />
+        <level_2 id="DCP-1512" name="DCP-1512" />
+        <level_2 id="DCP-1512A" name="DCP-1512A" />
+        <level_2 id="DCP-1610" name="DCP-1610" />
+        <level_2 id="DCP-1610W" name="DCP-1610W" />
+        <level_2 id="DCP-1612" name="DCP-1612" />
+        <level_2 id="DCP-1612W" name="DCP-1612W" />
+        <level_2 id="DCP-7010" name="DCP-7010" />
+        <level_2 id="DCP-7010L" name="DCP-7010L" />
+        <level_2 id="DCP-7025" name="DCP-7025" />
+        <level_2 id="DCP-7030" name="DCP-7030" />
+        <level_2 id="DCP-7040" name="DCP-7040" />
+        <level_2 id="DCP-7045N" name="DCP-7045N" />
+        <level_2 id="DCP-7055" name="DCP-7055" />
+        <level_2 id="DCP-7055W" name="DCP-7055W" />
+        <level_2 id="DCP-7060D" name="DCP-7060D" />
+        <level_2 id="DCP-7060DN" name="DCP-7060DN" />
+        <level_2 id="DCP-7065D" name="DCP-7065D" />
+        <level_2 id="DCP-7065DN" name="DCP-7065DN" />
+        <level_2 id="DCP-7070DW" name="DCP-7070DW" />
+        <level_2 id="DCP-8020" name="DCP-8020" />
+        <level_2 id="DCP-8025D" name="DCP-8025D" />
+        <level_2 id="DCP-8025DN" name="DCP-8025DN" />
+        <level_2 id="DCP-8040" name="DCP-8040" />
+        <level_2 id="DCP-8040LT" name="DCP-8040LT" />
+        <level_2 id="DCP-8045D" name="DCP-8045D" />
+        <level_2 id="DCP-8045DN" name="DCP-8045DN" />
+        <level_2 id="DCP-8060" name="DCP-8060" />
+        <level_2 id="DCP-8065DN" name="DCP-8065DN" />
+        <level_2 id="DCP-8070D" name="DCP-8070D" />
+        <level_2 id="DCP-8085DN" name="DCP-8085DN" />
+        <level_2 id="DCP-8110" name="DCP-8110" />
+        <level_2 id="DCP-8110DN" name="DCP-8110DN" />
+        <level_2 id="DCP-8250" name="DCP-8250" />
+        <level_2 id="DCP-8250DN" name="DCP-8250DN" />
+        <level_2 id="DCP-9020CDW" name="DCP-9020CDW" />
+        <level_2 id="DCP-9020CDW" name="DCP-9020CDW" />
+        <level_2 id="DCP-7010" name="DCP-7010" />
+        <level_2 id="DCP-7010" name="DCP-7010" />
+        <level_2 id="DCP-7010L" name="DCP-7010L" />
+        <level_2 id="DCP-7010L" name="DCP-7010L" />
+        <level_2 id="DCP-7025" name="DCP-7025" />
+        <level_2 id="DCP-7025" name="DCP-7025" />
+        <level_2 id="DCP-110" name="DCP-110" />
+        <level_2 id="DCP-110" name="DCP-110" />
+        <level_2 id="DCP-110" name="DCP-110" />
+        <level_2 id="DCP-110" name="DCP-110" />
+        <level_2 id="DCP-110" name="DCP-110" />
+        <level_2 id="DCP-115" name="DCP-115" />
+        <level_2 id="DCP-115" name="DCP-115" />
+        <level_2 id="DCP-115" name="DCP-115" />
+        <level_2 id="DCP-115" name="DCP-115" />
+        <level_2 id="DCP-115" name="DCP-115" />
+        <level_2 id="DCP-120" name="DCP-120" />
+        <level_2 id="DCP-120" name="DCP-120" />
+        <level_2 id="DCP-120" name="DCP-120" />
+        <level_2 id="DCP-120" name="DCP-120" />
+        <level_2 id="DCP-120" name="DCP-120" />
+        <level_2 id="DCP-310" name="DCP-310" />
+        <level_2 id="DCP-310" name="DCP-310" />
+        <level_2 id="DCP-310" name="DCP-310" />
+        <level_2 id="DCP-310" name="DCP-310" />
+        <level_2 id="DCP-310" name="DCP-310" />
+        <level_2 id="DCP-315" name="DCP-315" />
+        <level_2 id="DCP-315" name="DCP-315" />
+        <level_2 id="DCP-315" name="DCP-315" />
+        <level_2 id="DCP-315" name="DCP-315" />
+        <level_2 id="DCP-315" name="DCP-315" />
+        <level_2 id="DCP-340" name="DCP-340" />
+        <level_2 id="DCP-340" name="DCP-340" />
+        <level_2 id="DCP-340" name="DCP-340" />
+        <level_2 id="DCP-340" name="DCP-340" />
+        <level_2 id="DCP-340" name="DCP-340" />
+      </level_1>
+      <level_1 id="Brother Fax-serie" name="Brother Fax-serie" num_subcat="33">
+        <level_2 id="Fax-2820" name="Fax-2820" />
+        <level_2 id="Fax-2825" name="Fax-2825" />
+        <level_2 id="Fax-2920" name="Fax-2920" />
+        <level_2 id="Fax-8350P" name="Fax-8350P" />
+        <level_2 id="Fax-8360P" name="Fax-8360P" />
+        <level_2 id="Fax-8360PLT" name="Fax-8360PLT" />
+        <level_2 id="Fax-8750P" name="Fax-8750P" />
+        <level_2 id="Fax-2820" name="Fax-2820" />
+        <level_2 id="Fax-2820" name="Fax-2820" />
+        <level_2 id="Fax-2825" name="Fax-2825" />
+        <level_2 id="Fax-2825" name="Fax-2825" />
+        <level_2 id="Fax-2920" name="Fax-2920" />
+        <level_2 id="Fax-2920" name="Fax-2920" />
+        <level_2 id="Fax-1835" name="Fax-1835" />
+        <level_2 id="Fax-1835" name="Fax-1835" />
+        <level_2 id="Fax-1835" name="Fax-1835" />
+        <level_2 id="Fax-1835" name="Fax-1835" />
+        <level_2 id="Fax-1835" name="Fax-1835" />
+        <level_2 id="Fax-1840" name="Fax-1840" />
+        <level_2 id="Fax-1840" name="Fax-1840" />
+        <level_2 id="Fax-1840" name="Fax-1840" />
+        <level_2 id="Fax-1840" name="Fax-1840" />
+        <level_2 id="Fax-1840" name="Fax-1840" />
+        <level_2 id="Fax-1940" name="Fax-1940" />
+        <level_2 id="Fax-1940" name="Fax-1940" />
+        <level_2 id="Fax-1940" name="Fax-1940" />
+        <level_2 id="Fax-1940" name="Fax-1940" />
+        <level_2 id="Fax-1940" name="Fax-1940" />
+        <level_2 id="Fax-2440" name="Fax-2440" />
+        <level_2 id="Fax-2440" name="Fax-2440" />
+        <level_2 id="Fax-2440" name="Fax-2440" />
+        <level_2 id="Fax-2440" name="Fax-2440" />
+        <level_2 id="Fax-2440" name="Fax-2440" />
+      </level_1>
+      <level_1 id="Brother HL-L-serie" name="Brother HL-L-serie" num_subcat="23">
+        <level_2 id="HL-L2300" name="HL-L2300" />
+        <level_2 id="HL-L2300D" name="HL-L2300D" />
+        <level_2 id="HL-L2320D" name="HL-L2320D" />
+        <level_2 id="HL-L2321D" name="HL-L2321D" />
+        <level_2 id="HL-L2340" name="HL-L2340" />
+        <level_2 id="HL-L2340DW" name="HL-L2340DW" />
+        <level_2 id="HL-L2360" name="HL-L2360" />
+        <level_2 id="HL-L2360DN" name="HL-L2360DN" />
+        <level_2 id="HL-L2365" name="HL-L2365" />
+        <level_2 id="HL-L2365DW" name="HL-L2365DW" />
+        <level_2 id="HL-L5000D" name="HL-L5000D" />
+        <level_2 id="HL-L5100DN" name="HL-L5100DN" />
+        <level_2 id="HL-L5100DNT" name="HL-L5100DNT" />
+        <level_2 id="HL-L5100DNTT" name="HL-L5100DNTT" />
+        <level_2 id="HL-L5200DW" name="HL-L5200DW" />
+        <level_2 id="HL-L5200DWLT" name="HL-L5200DWLT" />
+        <level_2 id="HL-L5200DWT" name="HL-L5200DWT" />
+        <level_2 id="HL-L6250DN" name="HL-L6250DN" />
+        <level_2 id="HL-L6300DW" name="HL-L6300DW" />
+        <level_2 id="HL-L6300DWT" name="HL-L6300DWT" />
+        <level_2 id="HL-L6400DW" name="HL-L6400DW" />
+        <level_2 id="HL-L6400DWT" name="HL-L6400DWT" />
+        <level_2 id="HL-L6400DWTT" name="HL-L6400DWTT" />
+      </level_1>
+      <level_1 id="Brother HL-serie" name="Brother HL-serie" num_subcat="102">
+        <level_2 id="HL-1030" name="HL-1030" />
+        <level_2 id="HL-1110" name="HL-1110" />
+        <level_2 id="HL-1110E" name="HL-1110E" />
+        <level_2 id="HL-1110R" name="HL-1110R" />
+        <level_2 id="HL-1112" name="HL-1112" />
+        <level_2 id="HL-1112A" name="HL-1112A" />
+        <level_2 id="HL-1210" name="HL-1210" />
+        <level_2 id="HL-1210W" name="HL-1210W" />
+        <level_2 id="HL-1212" name="HL-1212" />
+        <level_2 id="HL-1212W" name="HL-1212W" />
+        <level_2 id="HL-1230" name="HL-1230" />
+        <level_2 id="HL-1240" name="HL-1240" />
+        <level_2 id="HL-1250" name="HL-1250" />
+        <level_2 id="HL-1270N" name="HL-1270N" />
+        <level_2 id="HL-1270NLT" name="HL-1270NLT" />
+        <level_2 id="HL-1430" name="HL-1430" />
+        <level_2 id="HL-1440" name="HL-1440" />
+        <level_2 id="HL-1450" name="HL-1450" />
+        <level_2 id="HL-1470N" name="HL-1470N" />
+        <level_2 id="HL-1470NLT" name="HL-1470NLT" />
+        <level_2 id="HL-1630" name="HL-1630" />
+        <level_2 id="HL-1650" name="HL-1650" />
+        <level_2 id="HL-1670N" name="HL-1670N" />
+        <level_2 id="HL-1670NLT" name="HL-1670NLT" />
+        <level_2 id="HL-1850" name="HL-1850" />
+        <level_2 id="HL-1870N" name="HL-1870N" />
+        <level_2 id="HL-1870NLT" name="HL-1870NLT" />
+        <level_2 id="HL-2030" name="HL-2030" />
+        <level_2 id="HL-2030R" name="HL-2030R" />
+        <level_2 id="HL-2035" name="HL-2035" />
+        <level_2 id="HL-2040" name="HL-2040" />
+        <level_2 id="HL-2040N" name="HL-2040N" />
+        <level_2 id="HL-2040R" name="HL-2040R" />
+        <level_2 id="HL-2070" name="HL-2070" />
+        <level_2 id="HL-2070N" name="HL-2070N" />
+        <level_2 id="HL-2070NR" name="HL-2070NR" />
+        <level_2 id="HL-2130" name="HL-2130" />
+        <level_2 id="HL-2135" name="HL-2135" />
+        <level_2 id="HL-2135W" name="HL-2135W" />
+        <level_2 id="HL-2140" name="HL-2140" />
+        <level_2 id="HL-2150N" name="HL-2150N" />
+        <level_2 id="HL-2170W" name="HL-2170W" />
+        <level_2 id="HL-2240" name="HL-2240" />
+        <level_2 id="HL-2240D" name="HL-2240D" />
+        <level_2 id="HL-2250DN" name="HL-2250DN" />
+        <level_2 id="HL-2270DW" name="HL-2270DW" />
+        <level_2 id="HL-3140CW" name="HL-3140CW" />
+        <level_2 id="HL-3150CDW" name="HL-3150CDW" />
+        <level_2 id="HL-3170CDW" name="HL-3170CDW" />
+        <level_2 id="HL-5030" name="HL-5030" />
+        <level_2 id="HL-5040" name="HL-5040" />
+        <level_2 id="HL-5050" name="HL-5050" />
+        <level_2 id="HL-5070" name="HL-5070" />
+        <level_2 id="HL-5070NLT" name="HL-5070NLT" />
+        <level_2 id="HL-5130" name="HL-5130" />
+        <level_2 id="HL-5140" name="HL-5140" />
+        <level_2 id="HL-5140LT" name="HL-5140LT" />
+        <level_2 id="HL-5150D" name="HL-5150D" />
+        <level_2 id="HL-5150DLT" name="HL-5150DLT" />
+        <level_2 id="HL-5170DN" name="HL-5170DN" />
+        <level_2 id="HL-5170DNLT" name="HL-5170DNLT" />
+        <level_2 id="HL-5240" name="HL-5240" />
+        <level_2 id="HL-5240L" name="HL-5240L" />
+        <level_2 id="HL-5250DN" name="HL-5250DN" />
+        <level_2 id="HL-5270DN" name="HL-5270DN" />
+        <level_2 id="HL-5270DN2LT" name="HL-5270DN2LT" />
+        <level_2 id="HL-5280DW" name="HL-5280DW" />
+        <level_2 id="HL-5340" name="HL-5340" />
+        <level_2 id="HL-5340D" name="HL-5340D" />
+        <level_2 id="HL-5350DN" name="HL-5350DN" />
+        <level_2 id="HL-5350DN2LT" name="HL-5350DN2LT" />
+        <level_2 id="HL-5350DNLT" name="HL-5350DNLT" />
+        <level_2 id="HL-5370DW" name="HL-5370DW" />
+        <level_2 id="HL-5380DN" name="HL-5380DN" />
+        <level_2 id="HL-5440" name="HL-5440" />
+        <level_2 id="HL-5440D" name="HL-5440D" />
+        <level_2 id="HL-5450" name="HL-5450" />
+        <level_2 id="HL-5450DN" name="HL-5450DN" />
+        <level_2 id="HL-5450DNT" name="HL-5450DNT" />
+        <level_2 id="HL-6180" name="HL-6180" />
+        <level_2 id="HL-6180DW" name="HL-6180DW" />
+        <level_2 id="HL-6180DWT" name="HL-6180DWT" />
+        <level_2 id="HL-P2500" name="HL-P2500" />
+        <level_2 id="HL-2030" name="HL-2030" />
+        <level_2 id="HL-2030" name="HL-2030" />
+        <level_2 id="HL-2030" name="HL-2030" />
+        <level_2 id="HL-2030R" name="HL-2030R" />
+        <level_2 id="HL-2030R" name="HL-2030R" />
+        <level_2 id="HL-2032" name="HL-2032" />
+        <level_2 id="HL-2040" name="HL-2040" />
+        <level_2 id="HL-2040" name="HL-2040" />
+        <level_2 id="HL-2040" name="HL-2040" />
+        <level_2 id="HL-2040N" name="HL-2040N" />
+        <level_2 id="HL-2040N" name="HL-2040N" />
+        <level_2 id="HL-2040R" name="HL-2040R" />
+        <level_2 id="HL-2040R" name="HL-2040R" />
+        <level_2 id="HL-2070" name="HL-2070" />
+        <level_2 id="HL-2070" name="HL-2070" />
+        <level_2 id="HL-2070N" name="HL-2070N" />
+        <level_2 id="HL-2070N" name="HL-2070N" />
+        <level_2 id="HL-2070NR" name="HL-2070NR" />
+        <level_2 id="HL-2070NR" name="HL-2070NR" />
+      </level_1>
+      <level_1 id="Brother MFC-L-serie" name="Brother MFC-L-serie" num_subcat="14">
+        <level_2 id="MFC-L2700DN" name="MFC-L2700DN" />
+        <level_2 id="MFC-L2700DW" name="MFC-L2700DW" />
+        <level_2 id="MFC-L2720" name="MFC-L2720" />
+        <level_2 id="MFC-L2720DW" name="MFC-L2720DW" />
+        <level_2 id="MFC-L2740" name="MFC-L2740" />
+        <level_2 id="MFC-L2740DW" name="MFC-L2740DW" />
+        <level_2 id="MFC-L5700DN" name="MFC-L5700DN" />
+        <level_2 id="MFC-L5700DN" name="MFC-L5700DN" />
+        <level_2 id="MFC-L5750DW" name="MFC-L5750DW" />
+        <level_2 id="MFC-L5750DWLT" name="MFC-L5750DWLT" />
+        <level_2 id="MFC-L6800DW" name="MFC-L6800DW" />
+        <level_2 id="MFC-L6800DWT" name="MFC-L6800DWT" />
+        <level_2 id="MFC-L6900DW" name="MFC-L6900DW" />
+        <level_2 id="MFC-L6900DWT" name="MFC-L6900DWT" />
+      </level_1>
+      <level_1 id="Brother MFC-serie" name="Brother MFC-serie" num_subcat="115">
+        <level_2 id="MFC-1810" name="MFC-1810" />
+        <level_2 id="MFC-1910" name="MFC-1910" />
+        <level_2 id="MFC-1910W" name="MFC-1910W" />
+        <level_2 id="MFC-7225N" name="MFC-7225N" />
+        <level_2 id="MFC-7320" name="MFC-7320" />
+        <level_2 id="MFC-7360N" name="MFC-7360N" />
+        <level_2 id="MFC-7420" name="MFC-7420" />
+        <level_2 id="MFC-7440N" name="MFC-7440N" />
+        <level_2 id="MFC-7460" name="MFC-7460" />
+        <level_2 id="MFC-7460DN" name="MFC-7460DN" />
+        <level_2 id="MFC-7820" name="MFC-7820" />
+        <level_2 id="MFC-7820N" name="MFC-7820N" />
+        <level_2 id="MFC-7840" name="MFC-7840" />
+        <level_2 id="MFC-7840W" name="MFC-7840W" />
+        <level_2 id="MFC-7860DW" name="MFC-7860DW" />
+        <level_2 id="MFC-8220" name="MFC-8220" />
+        <level_2 id="MFC-8370DN" name="MFC-8370DN" />
+        <level_2 id="MFC-8380DN" name="MFC-8380DN" />
+        <level_2 id="MFC-8380DNLT" name="MFC-8380DNLT" />
+        <level_2 id="MFC-8420" name="MFC-8420" />
+        <level_2 id="MFC-8440" name="MFC-8440" />
+        <level_2 id="MFC-8440LT" name="MFC-8440LT" />
+        <level_2 id="MFC-8460N" name="MFC-8460N" />
+        <level_2 id="MFC-8510" name="MFC-8510" />
+        <level_2 id="MFC-8510DN" name="MFC-8510DN" />
+        <level_2 id="MFC-8520" name="MFC-8520" />
+        <level_2 id="MFC-8520DN" name="MFC-8520DN" />
+        <level_2 id="MFC-8820D" name="MFC-8820D" />
+        <level_2 id="MFC-8820DN" name="MFC-8820DN" />
+        <level_2 id="MFC-8840" name="MFC-8840" />
+        <level_2 id="MFC-8840D" name="MFC-8840D" />
+        <level_2 id="MFC-8840DN" name="MFC-8840DN" />
+        <level_2 id="MFC-8860DN" name="MFC-8860DN" />
+        <level_2 id="MFC-8870DW" name="MFC-8870DW" />
+        <level_2 id="MFC-8880DN" name="MFC-8880DN" />
+        <level_2 id="MFC-8880DNLT" name="MFC-8880DNLT" />
+        <level_2 id="MFC-8890DW" name="MFC-8890DW" />
+        <level_2 id="MFC-8950" name="MFC-8950" />
+        <level_2 id="MFC-8950DN" name="MFC-8950DN" />
+        <level_2 id="MFC-8950DW" name="MFC-8950DW" />
+        <level_2 id="MFC-8950DWT" name="MFC-8950DWT" />
+        <level_2 id="MFC-9140CDN" name="MFC-9140CDN" />
+        <level_2 id="MFC-9330CDW" name="MFC-9330CDW" />
+        <level_2 id="MFC-9340CDW" name="MFC-9340CDW" />
+        <level_2 id="MFC-9650" name="MFC-9650" />
+        <level_2 id="MFC-9660" name="MFC-9660" />
+        <level_2 id="MFC-9750" name="MFC-9750" />
+        <level_2 id="MFC-9760" name="MFC-9760" />
+        <level_2 id="MFC-9850" name="MFC-9850" />
+        <level_2 id="MFC-9860" name="MFC-9860" />
+        <level_2 id="MFC-9870" name="MFC-9870" />
+        <level_2 id="MFC-9880" name="MFC-9880" />
+        <level_2 id="MFC-7225N" name="MFC-7225N" />
+        <level_2 id="MFC-7225N" name="MFC-7225N" />
+        <level_2 id="MFC-7420" name="MFC-7420" />
+        <level_2 id="MFC-7420" name="MFC-7420" />
+        <level_2 id="MFC-7820" name="MFC-7820" />
+        <level_2 id="MFC-7820" name="MFC-7820" />
+        <level_2 id="MFC-7820N" name="MFC-7820N" />
+        <level_2 id="MFC-7820N" name="MFC-7820N" />
+        <level_2 id="MFC-210" name="MFC-210" />
+        <level_2 id="MFC-210" name="MFC-210" />
+        <level_2 id="MFC-210" name="MFC-210" />
+        <level_2 id="MFC-210" name="MFC-210" />
+        <level_2 id="MFC-210" name="MFC-210" />
+        <level_2 id="MFC-215" name="MFC-215" />
+        <level_2 id="MFC-215" name="MFC-215" />
+        <level_2 id="MFC-215" name="MFC-215" />
+        <level_2 id="MFC-215" name="MFC-215" />
+        <level_2 id="MFC-215" name="MFC-215" />
+        <level_2 id="MFC-3240" name="MFC-3240" />
+        <level_2 id="MFC-3240" name="MFC-3240" />
+        <level_2 id="MFC-3240" name="MFC-3240" />
+        <level_2 id="MFC-3240" name="MFC-3240" />
+        <level_2 id="MFC-3240" name="MFC-3240" />
+        <level_2 id="MFC-3340" name="MFC-3340" />
+        <level_2 id="MFC-3340" name="MFC-3340" />
+        <level_2 id="MFC-3340" name="MFC-3340" />
+        <level_2 id="MFC-3340" name="MFC-3340" />
+        <level_2 id="MFC-3340" name="MFC-3340" />
+        <level_2 id="MFC-410" name="MFC-410" />
+        <level_2 id="MFC-410" name="MFC-410" />
+        <level_2 id="MFC-410" name="MFC-410" />
+        <level_2 id="MFC-410" name="MFC-410" />
+        <level_2 id="MFC-410" name="MFC-410" />
+        <level_2 id="MFC-425" name="MFC-425" />
+        <level_2 id="MFC-425" name="MFC-425" />
+        <level_2 id="MFC-425" name="MFC-425" />
+        <level_2 id="MFC-425" name="MFC-425" />
+        <level_2 id="MFC-425" name="MFC-425" />
+        <level_2 id="MFC-5440" name="MFC-5440" />
+        <level_2 id="MFC-5440" name="MFC-5440" />
+        <level_2 id="MFC-5440" name="MFC-5440" />
+        <level_2 id="MFC-5440" name="MFC-5440" />
+        <level_2 id="MFC-5440" name="MFC-5440" />
+        <level_2 id="MFC-5840" name="MFC-5840" />
+        <level_2 id="MFC-5840" name="MFC-5840" />
+        <level_2 id="MFC-5840" name="MFC-5840" />
+        <level_2 id="MFC-5840" name="MFC-5840" />
+        <level_2 id="MFC-5840" name="MFC-5840" />
+        <level_2 id="MFC-620" name="MFC-620" />
+        <level_2 id="MFC-620" name="MFC-620" />
+        <level_2 id="MFC-620" name="MFC-620" />
+        <level_2 id="MFC-620" name="MFC-620" />
+        <level_2 id="MFC-620" name="MFC-620" />
+        <level_2 id="MFC-640" name="MFC-640" />
+        <level_2 id="MFC-640" name="MFC-640" />
+        <level_2 id="MFC-640" name="MFC-640" />
+        <level_2 id="MFC-640" name="MFC-640" />
+        <level_2 id="MFC-640" name="MFC-640" />
+        <level_2 id="MFC-820" name="MFC-820" />
+        <level_2 id="MFC-820" name="MFC-820" />
+        <level_2 id="MFC-820" name="MFC-820" />
+        <level_2 id="MFC-820" name="MFC-820" />
+        <level_2 id="MFC-820" name="MFC-820" />
+      </level_1>
+      <level_1 id="Brother cartridge nummer" name="Brother cartridge nummer" num_subcat="21">
+        <level_2 id="DR-1050" name="DR-1050" />
+        <level_2 id="DR-2000" name="DR-2000" />
+        <level_2 id="DR-2100" name="DR-2100" />
+        <level_2 id="DR-2200" name="DR-2200" />
+        <level_2 id="DR-2200" name="DR-2200" />
+        <level_2 id="DR-2300" name="DR-2300" />
+        <level_2 id="DR-2300" name="DR-2300" />
+        <level_2 id="DR-3000" name="DR-3000" />
+        <level_2 id="DR-3100" name="DR-3100" />
+        <level_2 id="DR-3200" name="DR-3200" />
+        <level_2 id="DR-3200" name="DR-3200" />
+        <level_2 id="DR-3300" name="DR-3300" />
+        <level_2 id="DR-7000" name="DR-7000" />
+        <level_2 id="TN-2000" name="TN-2000" />
+        <level_2 id="TN-2000" name="TN-2000" />
+        <level_2 id="TN-2000" name="TN-2000" />
+        <level_2 id="LC900BK" name="LC900BK" />
+        <level_2 id="LC900C" name="LC900C" />
+        <level_2 id="LC900M" name="LC900M" />
+        <level_2 id="LC900Y" name="LC900Y" />
+        <level_2 id="LC900VALBP" name="LC900VALBP" />
+      </level_1>
+    </maincat>
+    <maincat id="Canon" name="Canon" num_subcat="17">
+      <level_1 id="CFX" name="CFX" num_subcat="2">
+        <level_2 id="CFX L3500 IF" name="CFX L3500 IF" />
+        <level_2 id="CFX L4000" name="CFX L4000" />
+      </level_1>
+      <level_1 id="Fax" name="Fax" num_subcat="16">
+        <level_2 id="Fax L200" name="Fax L200" />
+        <level_2 id="Fax L220" name="Fax L220" />
+        <level_2 id="Fax L240" name="Fax L240" />
+        <level_2 id="Fax L250" name="Fax L250" />
+        <level_2 id="Fax L260i" name="Fax L260i" />
+        <level_2 id="Fax L280" name="Fax L280" />
+        <level_2 id="Fax L290" name="Fax L290" />
+        <level_2 id="Fax L295" name="Fax L295" />
+        <level_2 id="Fax L300" name="Fax L300" />
+        <level_2 id="Fax L300M" name="Fax L300M" />
+        <level_2 id="Fax L350" name="Fax L350" />
+        <level_2 id="Fax L360" name="Fax L360" />
+        <level_2 id="Fax L380" name="Fax L380" />
+        <level_2 id="Fax L380S" name="Fax L380S" />
+        <level_2 id="Fax L390" name="Fax L390" />
+        <level_2 id="Fax L400" name="Fax L400" />
+      </level_1>
+      <level_1 id="Faxphone" name="Faxphone" num_subcat="2">
+        <level_2 id="Faxphone L75" name="Faxphone L75" />
+        <level_2 id="Faxphone L80" name="Faxphone L80" />
+      </level_1>
+      <level_1 id="FC" name="FC" num_subcat="28">
+        <level_2 id="FC-100" name="FC-100" />
+        <level_2 id="FC-108" name="FC-108" />
+        <level_2 id="FC-120" name="FC-120" />
+        <level_2 id="FC-128" name="FC-128" />
+        <level_2 id="FC-200" name="FC-200" />
+        <level_2 id="FC-200s" name="FC-200s" />
+        <level_2 id="FC-204" name="FC-204" />
+        <level_2 id="FC-206" name="FC-206" />
+        <level_2 id="FC-208" name="FC-208" />
+        <level_2 id="FC-210" name="FC-210" />
+        <level_2 id="FC-220" name="FC-220" />
+        <level_2 id="FC-220s" name="FC-220s" />
+        <level_2 id="FC-224" name="FC-224" />
+        <level_2 id="FC-224s" name="FC-224s" />
+        <level_2 id="FC-226" name="FC-226" />
+        <level_2 id="FC-228" name="FC-228" />
+        <level_2 id="FC-230" name="FC-230" />
+        <level_2 id="FC-290" name="FC-290" />
+        <level_2 id="FC-300" name="FC-300" />
+        <level_2 id="FC-310" name="FC-310" />
+        <level_2 id="FC-325" name="FC-325" />
+        <level_2 id="FC-330" name="FC-330" />
+        <level_2 id="FC-336" name="FC-336" />
+        <level_2 id="FC-530" name="FC-530" />
+        <level_2 id="FC-540" name="FC-540" />
+        <level_2 id="FC-740" name="FC-740" />
+        <level_2 id="FC-750" name="FC-750" />
+        <level_2 id="FC-770" name="FC-770" />
+      </level_1>
+      <level_1 id="I-Sensys Fax" name="I-Sensys Fax" num_subcat="10">
+        <level_2 id="i-Sensys Fax-L100" name="i-Sensys Fax-L100" />
+        <level_2 id="i-Sensys Fax-L120" name="i-Sensys Fax-L120" />
+        <level_2 id="i-Sensys Fax-L140" name="i-Sensys Fax-L140" />
+        <level_2 id="i-Sensys Fax-L150" name="i-Sensys Fax-L150" />
+        <level_2 id="i-Sensys Fax-L150" name="i-Sensys Fax-L150" />
+        <level_2 id="i-Sensys Fax-L160" name="i-Sensys Fax-L160" />
+        <level_2 id="i-Sensys Fax-L170" name="i-Sensys Fax-L170" />
+        <level_2 id="i-Sensys Fax-L170" name="i-Sensys Fax-L170" />
+        <level_2 id="i-Sensys Fax-L410" name="i-Sensys Fax-L410" />
+        <level_2 id="i-Sensys Fax-L410" name="i-Sensys Fax-L410" />
+      </level_1>
+      <level_1 id="I-Sensys LBP" name="I-Sensys LBP" num_subcat="182">
+        <level_2 id="i-Sensys LBP-151" name="i-Sensys LBP-151" />
+        <level_2 id="i-Sensys LBP-151DW" name="i-Sensys LBP-151DW" />
+        <level_2 id="i-Sensys LBP-2900" name="i-Sensys LBP-2900" />
+        <level_2 id="i-Sensys LBP-2900B" name="i-Sensys LBP-2900B" />
+        <level_2 id="i-Sensys LBP-3000" name="i-Sensys LBP-3000" />
+        <level_2 id="i-Sensys LBP-3010" name="i-Sensys LBP-3010" />
+        <level_2 id="i-Sensys LBP-3010" name="i-Sensys LBP-3010" />
+        <level_2 id="i-Sensys LBP-3010B" name="i-Sensys LBP-3010B" />
+        <level_2 id="i-Sensys LBP-3010B" name="i-Sensys LBP-3010B" />
+        <level_2 id="i-Sensys LBP-3100" name="i-Sensys LBP-3100" />
+        <level_2 id="i-Sensys LBP-3100" name="i-Sensys LBP-3100" />
+        <level_2 id="i-Sensys LBP-3250" name="i-Sensys LBP-3250" />
+        <level_2 id="i-Sensys LBP-3250" name="i-Sensys LBP-3250" />
+        <level_2 id="i-Sensys LBP-3360" name="i-Sensys LBP-3360" />
+        <level_2 id="i-Sensys LBP-3360" name="i-Sensys LBP-3360" />
+        <level_2 id="i-Sensys LBP-3460" name="i-Sensys LBP-3460" />
+        <level_2 id="i-Sensys LBP-3460" name="i-Sensys LBP-3460" />
+        <level_2 id="i-Sensys LBP-4410" name="i-Sensys LBP-4410" />
+        <level_2 id="i-Sensys LBP-4410" name="i-Sensys LBP-4410" />
+        <level_2 id="i-Sensys LBP-4430" name="i-Sensys LBP-4430" />
+        <level_2 id="i-Sensys LBP-4430" name="i-Sensys LBP-4430" />
+        <level_2 id="i-Sensys LBP-4450" name="i-Sensys LBP-4450" />
+        <level_2 id="i-Sensys LBP-4450" name="i-Sensys LBP-4450" />
+        <level_2 id="i-Sensys LBP-4550" name="i-Sensys LBP-4550" />
+        <level_2 id="i-Sensys LBP-4550" name="i-Sensys LBP-4550" />
+        <level_2 id="i-Sensys LBP-4550D" name="i-Sensys LBP-4550D" />
+        <level_2 id="i-Sensys LBP-4550D" name="i-Sensys LBP-4550D" />
+        <level_2 id="i-Sensys LBP-4570" name="i-Sensys LBP-4570" />
+        <level_2 id="i-Sensys LBP-4570" name="i-Sensys LBP-4570" />
+        <level_2 id="i-Sensys LBP-4580" name="i-Sensys LBP-4580" />
+        <level_2 id="i-Sensys LBP-4580" name="i-Sensys LBP-4580" />
+        <level_2 id="i-Sensys LBP-4580DN" name="i-Sensys LBP-4580DN" />
+        <level_2 id="i-Sensys LBP-4580DN" name="i-Sensys LBP-4580DN" />
+        <level_2 id="i-Sensys LBP-460" name="i-Sensys LBP-460" />
+        <level_2 id="i-Sensys LBP-460PS" name="i-Sensys LBP-460PS" />
+        <level_2 id="i-Sensys LBP-460WPS" name="i-Sensys LBP-460WPS" />
+        <level_2 id="i-Sensys LBP-465" name="i-Sensys LBP-465" />
+        <level_2 id="i-Sensys LBP-465WPS" name="i-Sensys LBP-465WPS" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5000" name="i-Sensys LBP-5000" />
+        <level_2 id="i-Sensys LBP-5050" name="i-Sensys LBP-5050" />
+        <level_2 id="i-Sensys LBP-5050" name="i-Sensys LBP-5050" />
+        <level_2 id="i-Sensys LBP-5050" name="i-Sensys LBP-5050" />
+        <level_2 id="i-Sensys LBP-5050" name="i-Sensys LBP-5050" />
+        <level_2 id="i-Sensys LBP-5050" name="i-Sensys LBP-5050" />
+        <level_2 id="i-Sensys LBP-5050CN" name="i-Sensys LBP-5050CN" />
+        <level_2 id="i-Sensys LBP-5050CN" name="i-Sensys LBP-5050CN" />
+        <level_2 id="i-Sensys LBP-5050CN" name="i-Sensys LBP-5050CN" />
+        <level_2 id="i-Sensys LBP-5050CN" name="i-Sensys LBP-5050CN" />
+        <level_2 id="i-Sensys LBP-5050CN" name="i-Sensys LBP-5050CN" />
+        <level_2 id="i-Sensys LBP-5050N" name="i-Sensys LBP-5050N" />
+        <level_2 id="i-Sensys LBP-5050N" name="i-Sensys LBP-5050N" />
+        <level_2 id="i-Sensys LBP-5050N" name="i-Sensys LBP-5050N" />
+        <level_2 id="i-Sensys LBP-5050N" name="i-Sensys LBP-5050N" />
+        <level_2 id="i-Sensys LBP-5050N" name="i-Sensys LBP-5050N" />
+        <level_2 id="i-Sensys LBP-5100" name="i-Sensys LBP-5100" />
+        <level_2 id="i-Sensys LBP-5100" name="i-Sensys LBP-5100" />
+        <level_2 id="i-Sensys LBP-5100" name="i-Sensys LBP-5100" />
+        <level_2 id="i-Sensys LBP-5200" name="i-Sensys LBP-5200" />
+        <level_2 id="i-Sensys LBP-5200" name="i-Sensys LBP-5200" />
+        <level_2 id="i-Sensys LBP-5200" name="i-Sensys LBP-5200" />
+        <level_2 id="i-Sensys LBP-5300" name="i-Sensys LBP-5300" />
+        <level_2 id="i-Sensys LBP-5300" name="i-Sensys LBP-5300" />
+        <level_2 id="i-Sensys LBP-5300" name="i-Sensys LBP-5300" />
+        <level_2 id="i-Sensys LBP-5300" name="i-Sensys LBP-5300" />
+        <level_2 id="i-Sensys LBP-5300" name="i-Sensys LBP-5300" />
+        <level_2 id="i-Sensys LBP-5360" name="i-Sensys LBP-5360" />
+        <level_2 id="i-Sensys LBP-5360" name="i-Sensys LBP-5360" />
+        <level_2 id="i-Sensys LBP-5360" name="i-Sensys LBP-5360" />
+        <level_2 id="i-Sensys LBP-5360" name="i-Sensys LBP-5360" />
+        <level_2 id="i-Sensys LBP-5360" name="i-Sensys LBP-5360" />
+        <level_2 id="i-Sensys LBP-6000" name="i-Sensys LBP-6000" />
+        <level_2 id="i-Sensys LBP-6000" name="i-Sensys LBP-6000" />
+        <level_2 id="i-Sensys LBP-6000B" name="i-Sensys LBP-6000B" />
+        <level_2 id="i-Sensys LBP-6000B" name="i-Sensys LBP-6000B" />
+        <level_2 id="i-Sensys LBP-6020" name="i-Sensys LBP-6020" />
+        <level_2 id="i-Sensys LBP-6020" name="i-Sensys LBP-6020" />
+        <level_2 id="i-Sensys LBP-6020B" name="i-Sensys LBP-6020B" />
+        <level_2 id="i-Sensys LBP-6020B" name="i-Sensys LBP-6020B" />
+        <level_2 id="i-Sensys LBP-6200" name="i-Sensys LBP-6200" />
+        <level_2 id="i-Sensys LBP-6200" name="i-Sensys LBP-6200" />
+        <level_2 id="i-Sensys LBP-6200D" name="i-Sensys LBP-6200D" />
+        <level_2 id="i-Sensys LBP-6200D" name="i-Sensys LBP-6200D" />
+        <level_2 id="i-Sensys LBP-6230" name="i-Sensys LBP-6230" />
+        <level_2 id="i-Sensys LBP-6230" name="i-Sensys LBP-6230" />
+        <level_2 id="i-Sensys LBP-6230DW" name="i-Sensys LBP-6230DW" />
+        <level_2 id="i-Sensys LBP-6230DW" name="i-Sensys LBP-6230DW" />
+        <level_2 id="i-Sensys LBP-6300dn" name="i-Sensys LBP-6300dn" />
+        <level_2 id="i-Sensys LBP-6300dn" name="i-Sensys LBP-6300dn" />
+        <level_2 id="i-Sensys LBP-6300dn" name="i-Sensys LBP-6300dn" />
+        <level_2 id="i-Sensys LBP-6300dn" name="i-Sensys LBP-6300dn" />
+        <level_2 id="i-Sensys LBP-6310dn" name="i-Sensys LBP-6310dn" />
+        <level_2 id="i-Sensys LBP-6310dn" name="i-Sensys LBP-6310dn" />
+        <level_2 id="i-Sensys LBP-660" name="i-Sensys LBP-660" />
+        <level_2 id="i-Sensys LBP-660WPS" name="i-Sensys LBP-660WPS" />
+        <level_2 id="i-Sensys LBP-6670dn" name="i-Sensys LBP-6670dn" />
+        <level_2 id="i-Sensys LBP-6670dn" name="i-Sensys LBP-6670dn" />
+        <level_2 id="i-Sensys LBP-6680x" name="i-Sensys LBP-6680x" />
+        <level_2 id="i-Sensys LBP-6680x" name="i-Sensys LBP-6680x" />
+        <level_2 id="i-Sensys LBP-6750" name="i-Sensys LBP-6750" />
+        <level_2 id="i-Sensys LBP-6750DN" name="i-Sensys LBP-6750DN" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7010C" name="i-Sensys LBP-7010C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-7018C" name="i-Sensys LBP-7018C" />
+        <level_2 id="i-Sensys LBP-707" name="i-Sensys LBP-707" />
+        <level_2 id="i-Sensys LBP-707" name="i-Sensys LBP-707" />
+        <level_2 id="i-Sensys LBP-707" name="i-Sensys LBP-707" />
+        <level_2 id="i-Sensys LBP-7100Cn" name="i-Sensys LBP-7100Cn" />
+        <level_2 id="i-Sensys LBP-7100Cn" name="i-Sensys LBP-7100Cn" />
+        <level_2 id="i-Sensys LBP-7100Cn" name="i-Sensys LBP-7100Cn" />
+        <level_2 id="i-Sensys LBP-7100Cn" name="i-Sensys LBP-7100Cn" />
+        <level_2 id="i-Sensys LBP-7100Cn" name="i-Sensys LBP-7100Cn" />
+        <level_2 id="i-Sensys LBP-7110Cw" name="i-Sensys LBP-7110Cw" />
+        <level_2 id="i-Sensys LBP-7110Cw" name="i-Sensys LBP-7110Cw" />
+        <level_2 id="i-Sensys LBP-7110Cw" name="i-Sensys LBP-7110Cw" />
+        <level_2 id="i-Sensys LBP-7110Cw" name="i-Sensys LBP-7110Cw" />
+        <level_2 id="i-Sensys LBP-7110Cw" name="i-Sensys LBP-7110Cw" />
+        <level_2 id="i-Sensys LBP-7200" name="i-Sensys LBP-7200" />
+        <level_2 id="i-Sensys LBP-7200" name="i-Sensys LBP-7200" />
+        <level_2 id="i-Sensys LBP-7200" name="i-Sensys LBP-7200" />
+        <level_2 id="i-Sensys LBP-7200" name="i-Sensys LBP-7200" />
+        <level_2 id="i-Sensys LBP-7200" name="i-Sensys LBP-7200" />
+        <level_2 id="i-Sensys LBP-7200CDN" name="i-Sensys LBP-7200CDN" />
+        <level_2 id="i-Sensys LBP-7200CDN" name="i-Sensys LBP-7200CDN" />
+        <level_2 id="i-Sensys LBP-7200CDN" name="i-Sensys LBP-7200CDN" />
+        <level_2 id="i-Sensys LBP-7200CDN" name="i-Sensys LBP-7200CDN" />
+        <level_2 id="i-Sensys LBP-7200CDN" name="i-Sensys LBP-7200CDN" />
+        <level_2 id="i-Sensys LBP-7660" name="i-Sensys LBP-7660" />
+        <level_2 id="i-Sensys LBP-7660" name="i-Sensys LBP-7660" />
+        <level_2 id="i-Sensys LBP-7660" name="i-Sensys LBP-7660" />
+        <level_2 id="i-Sensys LBP-7660" name="i-Sensys LBP-7660" />
+        <level_2 id="i-Sensys LBP-7660" name="i-Sensys LBP-7660" />
+        <level_2 id="i-Sensys LBP-7660CDN" name="i-Sensys LBP-7660CDN" />
+        <level_2 id="i-Sensys LBP-7660CDN" name="i-Sensys LBP-7660CDN" />
+        <level_2 id="i-Sensys LBP-7660CDN" name="i-Sensys LBP-7660CDN" />
+        <level_2 id="i-Sensys LBP-7660CDN" name="i-Sensys LBP-7660CDN" />
+        <level_2 id="i-Sensys LBP-7660CDN" name="i-Sensys LBP-7660CDN" />
+        <level_2 id="i-Sensys LBP-7680" name="i-Sensys LBP-7680" />
+        <level_2 id="i-Sensys LBP-7680" name="i-Sensys LBP-7680" />
+        <level_2 id="i-Sensys LBP-7680" name="i-Sensys LBP-7680" />
+        <level_2 id="i-Sensys LBP-7680" name="i-Sensys LBP-7680" />
+        <level_2 id="i-Sensys LBP-7680" name="i-Sensys LBP-7680" />
+        <level_2 id="i-Sensys LBP-7680CX" name="i-Sensys LBP-7680CX" />
+        <level_2 id="i-Sensys LBP-7680CX" name="i-Sensys LBP-7680CX" />
+        <level_2 id="i-Sensys LBP-7680CX" name="i-Sensys LBP-7680CX" />
+        <level_2 id="i-Sensys LBP-7680CX" name="i-Sensys LBP-7680CX" />
+        <level_2 id="i-Sensys LBP-7680CX" name="i-Sensys LBP-7680CX" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750" name="i-Sensys LBP-7750" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="i-Sensys LBP-7750CDN" name="i-Sensys LBP-7750CDN" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+      </level_1>
+      <level_1 id="I-Sensys MF" name="I-Sensys MF" num_subcat="204">
+        <level_2 id="i-Sensys MF-211" name="i-Sensys MF-211" />
+        <level_2 id="i-Sensys MF-212" name="i-Sensys MF-212" />
+        <level_2 id="i-Sensys MF-212W" name="i-Sensys MF-212W" />
+        <level_2 id="i-Sensys MF-216" name="i-Sensys MF-216" />
+        <level_2 id="i-Sensys MF-216N" name="i-Sensys MF-216N" />
+        <level_2 id="i-Sensys MF-217" name="i-Sensys MF-217" />
+        <level_2 id="i-Sensys MF-217w" name="i-Sensys MF-217w" />
+        <level_2 id="i-Sensys MF-220" name="i-Sensys MF-220" />
+        <level_2 id="i-Sensys MF-226" name="i-Sensys MF-226" />
+        <level_2 id="i-Sensys MF-226dn" name="i-Sensys MF-226dn" />
+        <level_2 id="i-Sensys MF-227" name="i-Sensys MF-227" />
+        <level_2 id="i-Sensys MF-227DW" name="i-Sensys MF-227DW" />
+        <level_2 id="i-Sensys MF-229" name="i-Sensys MF-229" />
+        <level_2 id="i-Sensys MF-229dw" name="i-Sensys MF-229dw" />
+        <level_2 id="i-Sensys MF-231" name="i-Sensys MF-231" />
+        <level_2 id="i-Sensys MF-232W" name="i-Sensys MF-232W" />
+        <level_2 id="i-Sensys MF-237W" name="i-Sensys MF-237W" />
+        <level_2 id="i-Sensys MF-244DW" name="i-Sensys MF-244DW" />
+        <level_2 id="i-Sensys MF-247" name="i-Sensys MF-247" />
+        <level_2 id="i-Sensys MF-247DW" name="i-Sensys MF-247DW" />
+        <level_2 id="i-Sensys MF-249" name="i-Sensys MF-249" />
+        <level_2 id="i-Sensys MF-249DW" name="i-Sensys MF-249DW" />
+        <level_2 id="i-Sensys MF-3010" name="i-Sensys MF-3010" />
+        <level_2 id="i-Sensys MF-3010" name="i-Sensys MF-3010" />
+        <level_2 id="i-Sensys MF-3220" name="i-Sensys MF-3220" />
+        <level_2 id="i-Sensys MF-3228" name="i-Sensys MF-3228" />
+        <level_2 id="i-Sensys MF-4018" name="i-Sensys MF-4018" />
+        <level_2 id="i-Sensys MF-4120" name="i-Sensys MF-4120" />
+        <level_2 id="i-Sensys MF-4140" name="i-Sensys MF-4140" />
+        <level_2 id="i-Sensys MF-4150" name="i-Sensys MF-4150" />
+        <level_2 id="i-Sensys MF-4270" name="i-Sensys MF-4270" />
+        <level_2 id="i-Sensys MF-4320D" name="i-Sensys MF-4320D" />
+        <level_2 id="i-Sensys MF-4330D" name="i-Sensys MF-4330D" />
+        <level_2 id="i-Sensys MF-4340D" name="i-Sensys MF-4340D" />
+        <level_2 id="i-Sensys MF-4350D" name="i-Sensys MF-4350D" />
+        <level_2 id="i-Sensys MF-4370DN" name="i-Sensys MF-4370DN" />
+        <level_2 id="i-Sensys MF-4380DN" name="i-Sensys MF-4380DN" />
+        <level_2 id="i-Sensys MF-4410" name="i-Sensys MF-4410" />
+        <level_2 id="i-Sensys MF-4410" name="i-Sensys MF-4410" />
+        <level_2 id="i-Sensys MF-4410DN" name="i-Sensys MF-4410DN" />
+        <level_2 id="i-Sensys MF-4410DN" name="i-Sensys MF-4410DN" />
+        <level_2 id="i-Sensys MF-4430" name="i-Sensys MF-4430" />
+        <level_2 id="i-Sensys MF-4430" name="i-Sensys MF-4430" />
+        <level_2 id="i-Sensys MF-4450" name="i-Sensys MF-4450" />
+        <level_2 id="i-Sensys MF-4450" name="i-Sensys MF-4450" />
+        <level_2 id="i-Sensys MF-4450DN" name="i-Sensys MF-4450DN" />
+        <level_2 id="i-Sensys MF-4550" name="i-Sensys MF-4550" />
+        <level_2 id="i-Sensys MF-4550" name="i-Sensys MF-4550" />
+        <level_2 id="i-Sensys MF-4550D" name="i-Sensys MF-4550D" />
+        <level_2 id="i-Sensys MF-4550D" name="i-Sensys MF-4550D" />
+        <level_2 id="i-Sensys MF-4550DN" name="i-Sensys MF-4550DN" />
+        <level_2 id="i-Sensys MF-4570" name="i-Sensys MF-4570" />
+        <level_2 id="i-Sensys MF-4570" name="i-Sensys MF-4570" />
+        <level_2 id="i-Sensys MF-4570DN" name="i-Sensys MF-4570DN" />
+        <level_2 id="i-Sensys MF-4570DN" name="i-Sensys MF-4570DN" />
+        <level_2 id="i-Sensys MF-4580" name="i-Sensys MF-4580" />
+        <level_2 id="i-Sensys MF-4580" name="i-Sensys MF-4580" />
+        <level_2 id="i-Sensys MF-4580DN" name="i-Sensys MF-4580DN" />
+        <level_2 id="i-Sensys MF-4580DN" name="i-Sensys MF-4580DN" />
+        <level_2 id="i-Sensys MF-4660PL" name="i-Sensys MF-4660PL" />
+        <level_2 id="i-Sensys MF-4690PL" name="i-Sensys MF-4690PL" />
+        <level_2 id="i-Sensys MF-4730" name="i-Sensys MF-4730" />
+        <level_2 id="i-Sensys MF-4730" name="i-Sensys MF-4730" />
+        <level_2 id="i-Sensys MF-4780" name="i-Sensys MF-4780" />
+        <level_2 id="i-Sensys MF-4780W" name="i-Sensys MF-4780W" />
+        <level_2 id="i-Sensys MF-4780W" name="i-Sensys MF-4780W" />
+        <level_2 id="i-Sensys MF-4870" name="i-Sensys MF-4870" />
+        <level_2 id="i-Sensys MF-4870DN" name="i-Sensys MF-4870DN" />
+        <level_2 id="i-Sensys MF-4870DN" name="i-Sensys MF-4870DN" />
+        <level_2 id="i-Sensys MF-4890" name="i-Sensys MF-4890" />
+        <level_2 id="i-Sensys MF-4890" name="i-Sensys MF-4890" />
+        <level_2 id="i-Sensys MF-4890DW" name="i-Sensys MF-4890DW" />
+        <level_2 id="i-Sensys MF-4890DW" name="i-Sensys MF-4890DW" />
+        <level_2 id="i-Sensys MF-5840dn" name="i-Sensys MF-5840dn" />
+        <level_2 id="i-Sensys MF-5840dn" name="i-Sensys MF-5840dn" />
+        <level_2 id="i-Sensys MF-5880dn" name="i-Sensys MF-5880dn" />
+        <level_2 id="i-Sensys MF-5880dn" name="i-Sensys MF-5880dn" />
+        <level_2 id="i-Sensys MF-5940dn" name="i-Sensys MF-5940dn" />
+        <level_2 id="i-Sensys MF-5940dn" name="i-Sensys MF-5940dn" />
+        <level_2 id="i-Sensys MF-5980dw" name="i-Sensys MF-5980dw" />
+        <level_2 id="i-Sensys MF-5980dw" name="i-Sensys MF-5980dw" />
+        <level_2 id="i-Sensys MF-6140dn" name="i-Sensys MF-6140dn" />
+        <level_2 id="i-Sensys MF-6140dn" name="i-Sensys MF-6140dn" />
+        <level_2 id="i-Sensys MF-6180dw" name="i-Sensys MF-6180dw" />
+        <level_2 id="i-Sensys MF-6180dw" name="i-Sensys MF-6180dw" />
+        <level_2 id="i-Sensys MF-623Cn" name="i-Sensys MF-623Cn" />
+        <level_2 id="i-Sensys MF-623Cn" name="i-Sensys MF-623Cn" />
+        <level_2 id="i-Sensys MF-623Cn" name="i-Sensys MF-623Cn" />
+        <level_2 id="i-Sensys MF-623Cn" name="i-Sensys MF-623Cn" />
+        <level_2 id="i-Sensys MF-623Cn" name="i-Sensys MF-623Cn" />
+        <level_2 id="i-Sensys MF-628Cw" name="i-Sensys MF-628Cw" />
+        <level_2 id="i-Sensys MF-628Cw" name="i-Sensys MF-628Cw" />
+        <level_2 id="i-Sensys MF-628Cw" name="i-Sensys MF-628Cw" />
+        <level_2 id="i-Sensys MF-628Cw" name="i-Sensys MF-628Cw" />
+        <level_2 id="i-Sensys MF-628Cw" name="i-Sensys MF-628Cw" />
+        <level_2 id="i-Sensys MF-6530" name="i-Sensys MF-6530" />
+        <level_2 id="i-Sensys MF-6540PL" name="i-Sensys MF-6540PL" />
+        <level_2 id="i-Sensys MF-6550" name="i-Sensys MF-6550" />
+        <level_2 id="i-Sensys MF-6560PL" name="i-Sensys MF-6560PL" />
+        <level_2 id="i-Sensys MF-6580PL" name="i-Sensys MF-6580PL" />
+        <level_2 id="i-Sensys MF-6680" name="i-Sensys MF-6680" />
+        <level_2 id="i-Sensys MF-6680DN" name="i-Sensys MF-6680DN" />
+        <level_2 id="i-Sensys MF-8030CN" name="i-Sensys MF-8030CN" />
+        <level_2 id="i-Sensys MF-8030CN" name="i-Sensys MF-8030CN" />
+        <level_2 id="i-Sensys MF-8030CN" name="i-Sensys MF-8030CN" />
+        <level_2 id="i-Sensys MF-8030CN" name="i-Sensys MF-8030CN" />
+        <level_2 id="i-Sensys MF-8030CN" name="i-Sensys MF-8030CN" />
+        <level_2 id="i-Sensys MF-8040CN" name="i-Sensys MF-8040CN" />
+        <level_2 id="i-Sensys MF-8040CN" name="i-Sensys MF-8040CN" />
+        <level_2 id="i-Sensys MF-8040CN" name="i-Sensys MF-8040CN" />
+        <level_2 id="i-Sensys MF-8040CN" name="i-Sensys MF-8040CN" />
+        <level_2 id="i-Sensys MF-8040CN" name="i-Sensys MF-8040CN" />
+        <level_2 id="i-Sensys MF-8050CN" name="i-Sensys MF-8050CN" />
+        <level_2 id="i-Sensys MF-8050CN" name="i-Sensys MF-8050CN" />
+        <level_2 id="i-Sensys MF-8050CN" name="i-Sensys MF-8050CN" />
+        <level_2 id="i-Sensys MF-8050CN" name="i-Sensys MF-8050CN" />
+        <level_2 id="i-Sensys MF-8050CN" name="i-Sensys MF-8050CN" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8080CW" name="i-Sensys MF-8080CW" />
+        <level_2 id="i-Sensys MF-8180C" name="i-Sensys MF-8180C" />
+        <level_2 id="i-Sensys MF-8180C" name="i-Sensys MF-8180C" />
+        <level_2 id="i-Sensys MF-8180C" name="i-Sensys MF-8180C" />
+        <level_2 id="i-Sensys MF-8330" name="i-Sensys MF-8330" />
+        <level_2 id="i-Sensys MF-8330" name="i-Sensys MF-8330" />
+        <level_2 id="i-Sensys MF-8330" name="i-Sensys MF-8330" />
+        <level_2 id="i-Sensys MF-8330" name="i-Sensys MF-8330" />
+        <level_2 id="i-Sensys MF-8330" name="i-Sensys MF-8330" />
+        <level_2 id="i-Sensys MF-8330CDN" name="i-Sensys MF-8330CDN" />
+        <level_2 id="i-Sensys MF-8330CDN" name="i-Sensys MF-8330CDN" />
+        <level_2 id="i-Sensys MF-8330CDN" name="i-Sensys MF-8330CDN" />
+        <level_2 id="i-Sensys MF-8330CDN" name="i-Sensys MF-8330CDN" />
+        <level_2 id="i-Sensys MF-8330CDN" name="i-Sensys MF-8330CDN" />
+        <level_2 id="i-Sensys MF-8340" name="i-Sensys MF-8340" />
+        <level_2 id="i-Sensys MF-8340" name="i-Sensys MF-8340" />
+        <level_2 id="i-Sensys MF-8340" name="i-Sensys MF-8340" />
+        <level_2 id="i-Sensys MF-8340" name="i-Sensys MF-8340" />
+        <level_2 id="i-Sensys MF-8340" name="i-Sensys MF-8340" />
+        <level_2 id="i-Sensys MF-8340CDN" name="i-Sensys MF-8340CDN" />
+        <level_2 id="i-Sensys MF-8340CDN" name="i-Sensys MF-8340CDN" />
+        <level_2 id="i-Sensys MF-8340CDN" name="i-Sensys MF-8340CDN" />
+        <level_2 id="i-Sensys MF-8340CDN" name="i-Sensys MF-8340CDN" />
+        <level_2 id="i-Sensys MF-8340CDN" name="i-Sensys MF-8340CDN" />
+        <level_2 id="i-Sensys MF-8350" name="i-Sensys MF-8350" />
+        <level_2 id="i-Sensys MF-8350" name="i-Sensys MF-8350" />
+        <level_2 id="i-Sensys MF-8350" name="i-Sensys MF-8350" />
+        <level_2 id="i-Sensys MF-8350" name="i-Sensys MF-8350" />
+        <level_2 id="i-Sensys MF-8350" name="i-Sensys MF-8350" />
+        <level_2 id="i-Sensys MF-8350CDN" name="i-Sensys MF-8350CDN" />
+        <level_2 id="i-Sensys MF-8350CDN" name="i-Sensys MF-8350CDN" />
+        <level_2 id="i-Sensys MF-8350CDN" name="i-Sensys MF-8350CDN" />
+        <level_2 id="i-Sensys MF-8350CDN" name="i-Sensys MF-8350CDN" />
+        <level_2 id="i-Sensys MF-8350CDN" name="i-Sensys MF-8350CDN" />
+        <level_2 id="i-Sensys MF-8360" name="i-Sensys MF-8360" />
+        <level_2 id="i-Sensys MF-8360" name="i-Sensys MF-8360" />
+        <level_2 id="i-Sensys MF-8360" name="i-Sensys MF-8360" />
+        <level_2 id="i-Sensys MF-8360" name="i-Sensys MF-8360" />
+        <level_2 id="i-Sensys MF-8360" name="i-Sensys MF-8360" />
+        <level_2 id="i-Sensys MF-8360CDN" name="i-Sensys MF-8360CDN" />
+        <level_2 id="i-Sensys MF-8360CDN" name="i-Sensys MF-8360CDN" />
+        <level_2 id="i-Sensys MF-8360CDN" name="i-Sensys MF-8360CDN" />
+        <level_2 id="i-Sensys MF-8360CDN" name="i-Sensys MF-8360CDN" />
+        <level_2 id="i-Sensys MF-8360CDN" name="i-Sensys MF-8360CDN" />
+        <level_2 id="i-Sensys MF-8380" name="i-Sensys MF-8380" />
+        <level_2 id="i-Sensys MF-8380" name="i-Sensys MF-8380" />
+        <level_2 id="i-Sensys MF-8380" name="i-Sensys MF-8380" />
+        <level_2 id="i-Sensys MF-8380" name="i-Sensys MF-8380" />
+        <level_2 id="i-Sensys MF-8380" name="i-Sensys MF-8380" />
+        <level_2 id="i-Sensys MF-8380CDW" name="i-Sensys MF-8380CDW" />
+        <level_2 id="i-Sensys MF-8380CDW" name="i-Sensys MF-8380CDW" />
+        <level_2 id="i-Sensys MF-8380CDW" name="i-Sensys MF-8380CDW" />
+        <level_2 id="i-Sensys MF-8380CDW" name="i-Sensys MF-8380CDW" />
+        <level_2 id="i-Sensys MF-8380CDW" name="i-Sensys MF-8380CDW" />
+        <level_2 id="i-Sensys MF-8450" name="i-Sensys MF-8450" />
+        <level_2 id="i-Sensys MF-8450" name="i-Sensys MF-8450" />
+        <level_2 id="i-Sensys MF-8450" name="i-Sensys MF-8450" />
+        <level_2 id="i-Sensys MF-8450" name="i-Sensys MF-8450" />
+        <level_2 id="i-Sensys MF-8450" name="i-Sensys MF-8450" />
+        <level_2 id="i-Sensys MF-9130" name="i-Sensys MF-9130" />
+        <level_2 id="i-Sensys MF-9130" name="i-Sensys MF-9130" />
+        <level_2 id="i-Sensys MF-9130" name="i-Sensys MF-9130" />
+        <level_2 id="i-Sensys MF-9130" name="i-Sensys MF-9130" />
+        <level_2 id="i-Sensys MF-9130" name="i-Sensys MF-9130" />
+        <level_2 id="i-Sensys MF-9170" name="i-Sensys MF-9170" />
+        <level_2 id="i-Sensys MF-9170" name="i-Sensys MF-9170" />
+        <level_2 id="i-Sensys MF-9170" name="i-Sensys MF-9170" />
+        <level_2 id="i-Sensys MF-9170" name="i-Sensys MF-9170" />
+        <level_2 id="i-Sensys MF-9170" name="i-Sensys MF-9170" />
+        <level_2 id="i-Sensys MF-9220CDN" name="i-Sensys MF-9220CDN" />
+        <level_2 id="i-Sensys MF-9220CDN" name="i-Sensys MF-9220CDN" />
+        <level_2 id="i-Sensys MF-9220CDN" name="i-Sensys MF-9220CDN" />
+        <level_2 id="i-Sensys MF-9220CDN" name="i-Sensys MF-9220CDN" />
+        <level_2 id="i-Sensys MF-9220CDN" name="i-Sensys MF-9220CDN" />
+        <level_2 id="i-Sensys MF-9280CDN" name="i-Sensys MF-9280CDN" />
+        <level_2 id="i-Sensys MF-9280CDN" name="i-Sensys MF-9280CDN" />
+        <level_2 id="i-Sensys MF-9280CDN" name="i-Sensys MF-9280CDN" />
+        <level_2 id="i-Sensys MF-9280CDN" name="i-Sensys MF-9280CDN" />
+        <level_2 id="i-Sensys MF-9280CDN" name="i-Sensys MF-9280CDN" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+        <level_2 id="" name="" />
+      </level_1>
+      <level_1 id="I-Sensys MFC" name="I-Sensys MFC" num_subcat="10">
+        <level_2 id="i-Sensys MFC-8230Cn" name="i-Sensys MFC-8230Cn" />
+        <level_2 id="i-Sensys MFC-8230Cn" name="i-Sensys MFC-8230Cn" />
+        <level_2 id="i-Sensys MFC-8230Cn" name="i-Sensys MFC-8230Cn" />
+        <level_2 id="i-Sensys MFC-8230Cn" name="i-Sensys MFC-8230Cn" />
+        <level_2 id="i-Sensys MFC-8230Cn" name="i-Sensys MFC-8230Cn" />
+        <level_2 id="i-Sensys MFC-8280Cw" name="i-Sensys MFC-8280Cw" />
+        <level_2 id="i-Sensys MFC-8280Cw" name="i-Sensys MFC-8280Cw" />
+        <level_2 id="i-Sensys MFC-8280Cw" name="i-Sensys MFC-8280Cw" />
+        <level_2 id="i-Sensys MFC-8280Cw" name="i-Sensys MFC-8280Cw" />
+        <level_2 id="i-Sensys MFC-8280Cw" name="i-Sensys MFC-8280Cw" />
+      </level_1>
+      <level_1 id="ImageCLASS" name="ImageCLASS" num_subcat="24">
+        <level_2 id="ImageCLASS 1100" name="ImageCLASS 1100" />
+        <level_2 id="ImageCLASS D320" name="ImageCLASS D320" />
+        <level_2 id="ImageCLASS D340" name="ImageCLASS D340" />
+        <level_2 id="ImageCLASS MF-5980dw" name="ImageCLASS MF-5980dw" />
+        <level_2 id="ImageCLASS MF-5980dw" name="ImageCLASS MF-5980dw" />
+        <level_2 id="ImageCLASS MF8180c" name="ImageCLASS MF8180c" />
+        <level_2 id="ImageCLASS-MF4410" name="ImageCLASS-MF4410" />
+        <level_2 id="ImageCLASS-MF4410" name="ImageCLASS-MF4410" />
+        <level_2 id="ImageCLASS-MF4430" name="ImageCLASS-MF4430" />
+        <level_2 id="ImageCLASS-MF4430" name="ImageCLASS-MF4430" />
+        <level_2 id="ImageCLASS-MF4450" name="ImageCLASS-MF4450" />
+        <level_2 id="ImageCLASS-MF4450" name="ImageCLASS-MF4450" />
+        <level_2 id="ImageCLASS-MF4550" name="ImageCLASS-MF4550" />
+        <level_2 id="ImageCLASS-MF4550" name="ImageCLASS-MF4550" />
+        <level_2 id="ImageCLASS-MF4550D" name="ImageCLASS-MF4550D" />
+        <level_2 id="ImageCLASS-MF4550D" name="ImageCLASS-MF4550D" />
+        <level_2 id="ImageCLASS-MF4570" name="ImageCLASS-MF4570" />
+        <level_2 id="ImageCLASS-MF4570" name="ImageCLASS-MF4570" />
+        <level_2 id="ImageCLASS-MF4570DN" name="ImageCLASS-MF4570DN" />
+        <level_2 id="ImageCLASS-MF4570DN" name="ImageCLASS-MF4570DN" />
+        <level_2 id="ImageCLASS-MF4580" name="ImageCLASS-MF4580" />
+        <level_2 id="ImageCLASS-MF4580" name="ImageCLASS-MF4580" />
+        <level_2 id="ImageCLASS-MF4580DN" name="ImageCLASS-MF4580DN" />
+        <level_2 id="ImageCLASS-MF4580DN" name="ImageCLASS-MF4580DN" />
+      </level_1>
+      <level_1 id="Laser Class" name="Laser Class" num_subcat="6">
+        <level_2 id="Laser Class 1060P" name="Laser Class 1060P" />
+        <level_2 id="Laser Class 2050" name="Laser Class 2050" />
+        <level_2 id="Laser Class 2050P" name="Laser Class 2050P" />
+        <level_2 id="Laser Class 2060P" name="Laser Class 2060P" />
+        <level_2 id="Laser Class 310" name="Laser Class 310" />
+        <level_2 id="Laser Class 510" name="Laser Class 510" />
+      </level_1>
+      <level_1 id="Laser Shot" name="Laser Shot" num_subcat="14">
+        <level_2 id="Laser Shot LBP-3200" name="Laser Shot LBP-3200" />
+        <level_2 id="Laser Shot LBP-3300" name="Laser Shot LBP-3300" />
+        <level_2 id="Laser Shot LBP-3300" name="Laser Shot LBP-3300" />
+        <level_2 id="Laser Shot LBP-3360" name="Laser Shot LBP-3360" />
+        <level_2 id="Laser Shot LBP-3360" name="Laser Shot LBP-3360" />
+        <level_2 id="Laser Shot LBP-3460" name="Laser Shot LBP-3460" />
+        <level_2 id="Laser Shot LBP-3460" name="Laser Shot LBP-3460" />
+        <level_2 id="Laser Shot LBP-5000" name="Laser Shot LBP-5000" />
+        <level_2 id="Laser Shot LBP-5000" name="Laser Shot LBP-5000" />
+        <level_2 id="Laser Shot LBP-5000" name="Laser Shot LBP-5000" />
+        <level_2 id="Laser Shot LBP-5100" name="Laser Shot LBP-5100" />
+        <level_2 id="Laser Shot LBP-5100" name="Laser Shot LBP-5100" />
+        <level_2 id="Laser Shot LBP-5100" name="Laser Shot LBP-5100" />
+        <level_2 id="Laser Shot LBP-5200" name="Laser Shot LBP-5200" />
+      </level_1>
+      <level_1 id="LaserBase LBP" name="LaserBase LBP" num_subcat="9">
+        <level_2 id="LaserBase LBP- 6200" name="LaserBase LBP- 6200" />
+        <level_2 id="LaserBase LBP- 6200" name="LaserBase LBP- 6200" />
+        <level_2 id="LaserBase LBP- 6200D" name="LaserBase LBP- 6200D" />
+        <level_2 id="LaserBase LBP- 6200D" name="LaserBase LBP- 6200D" />
+        <level_2 id="LaserBase LBP- 6230" name="LaserBase LBP- 6230" />
+        <level_2 id="LaserBase LBP- 6230" name="LaserBase LBP- 6230" />
+        <level_2 id="LaserBase LBP- 6230DW" name="LaserBase LBP- 6230DW" />
+        <level_2 id="LaserBase LBP- 6230DW" name="LaserBase LBP- 6230DW" />
+        <level_2 id="LaserBase LBP-3200" name="LaserBase LBP-3200" />
+      </level_1>
+      <level_1 id="LaserBase MF" name="LaserBase MF" num_subcat="14">
+        <level_2 id="LaserBase MF3110" name="LaserBase MF3110" />
+        <level_2 id="LaserBase MF3228" name="LaserBase MF3228" />
+        <level_2 id="LaserBase MF3240" name="LaserBase MF3240" />
+        <level_2 id="LaserBase MF5630" name="LaserBase MF5630" />
+        <level_2 id="LaserBase MF5650" name="LaserBase MF5650" />
+        <level_2 id="LaserBase MF5730" name="LaserBase MF5730" />
+        <level_2 id="LaserBase MF5750" name="LaserBase MF5750" />
+        <level_2 id="LaserBase MF5770" name="LaserBase MF5770" />
+        <level_2 id="LaserBase MF6530" name="LaserBase MF6530" />
+        <level_2 id="LaserBase MF6540PL" name="LaserBase MF6540PL" />
+        <level_2 id="LaserBase MF6550" name="LaserBase MF6550" />
+        <level_2 id="LaserBase MF6560PL" name="LaserBase MF6560PL" />
+        <level_2 id="LaserBase MF6580PL" name="LaserBase MF6580PL" />
+        <level_2 id="LaserBase MF8180C" name="LaserBase MF8180C" />
+      </level_1>
+      <level_1 id="MultiPASS" name="MultiPASS" num_subcat="2">
+        <level_2 id="MultiPASS L60" name="MultiPASS L60" />
+        <level_2 id="MultiPASS L90" name="MultiPASS L90" />
+      </level_1>
+      <level_1 id="PC" name="PC" num_subcat="25">
+        <level_2 id="PC D320" name="PC D320" />
+        <level_2 id="PC D340" name="PC D340" />
+        <level_2 id="PC-300" name="PC-300" />
+        <level_2 id="PC-310" name="PC-310" />
+        <level_2 id="PC-320" name="PC-320" />
+        <level_2 id="PC-325" name="PC-325" />
+        <level_2 id="PC-330" name="PC-330" />
+        <level_2 id="PC-400" name="PC-400" />
+        <level_2 id="PC-420" name="PC-420" />
+        <level_2 id="PC-530" name="PC-530" />
+        <level_2 id="PC-680" name="PC-680" />
+        <level_2 id="PC-710" name="PC-710" />
+        <level_2 id="PC-740" name="PC-740" />
+        <level_2 id="PC-750" name="PC-750" />
+        <level_2 id="PC-760" name="PC-760" />
+        <level_2 id="PC-770" name="PC-770" />
+        <level_2 id="PC-780" name="PC-780" />
+        <level_2 id="PC-850" name="PC-850" />
+        <level_2 id="PC-860" name="PC-860" />
+        <level_2 id="PC-870" name="PC-870" />
+        <level_2 id="PC-880" name="PC-880" />
+        <level_2 id="PC-890" name="PC-890" />
+        <level_2 id="PC-950" name="PC-950" />
+        <level_2 id="PC-D440" name="PC-D440" />
+        <level_2 id="PC-D450" name="PC-D450" />
+      </level_1>
+      <level_1 id="Pixma IP-serie" name="Pixma IP-serie" num_subcat="5">
+        <level_2 id="Pixma IP-3600" name="Pixma IP-3600" />
+        <level_2 id="Pixma IP-3600" name="Pixma IP-3600" />
+        <level_2 id="Pixma IP-3600" name="Pixma IP-3600" />
+        <level_2 id="Pixma IP-3600" name="Pixma IP-3600" />
+        <level_2 id="Pixma IP-3600" name="Pixma IP-3600" />
+      </level_1>
+      <level_1 id="Pixma MP-serie" name="Pixma MP-serie" num_subcat="10">
+        <level_2 id="MP-540" name="MP-540" />
+        <level_2 id="MP-540" name="MP-540" />
+        <level_2 id="MP-540" name="MP-540" />
+        <level_2 id="MP-540" name="MP-540" />
+        <level_2 id="MP-540" name="MP-540" />
+        <level_2 id="MP-540X" name="MP-540X" />
+        <level_2 id="MP-540X" name="MP-540X" />
+        <level_2 id="MP-540X" name="MP-540X" />
+        <level_2 id="MP-540X" name="MP-540X" />
+        <level_2 id="MP-540X" name="MP-540X" />
+      </level_1>
+    </maincat>
+    <maincat id="Mountainbikes" name="Mountainbikes" num_subcat="2">
+      <level_1 id="Aluminium" name="Aluminium" num_subcat="2">
+        <level_2 id="Wit" name="Wit" />
+        <level_2 id="Zwart" name="Zwart" />
+      </level_1>
+      <level_1 id="Carbon" name="Carbon" num_subcat="1">
+        <level_2 id="Geel" name="Geel" />
+      </level_1>
+    </maincat>
+    <maincat id="Racefietsen" name="Racefietsen" num_subcat="1">
+      <level_1 id="Aluminium" name="Aluminium" num_subcat="1">
+        <level_2 id="Blauw" name="Blauw" />
+      </level_1>
+    </maincat>
+    <maincat id="Transportfietsen" name="Transportfietsen" num_subcat="2">
+      <level_1 id="Dames" name="Dames" num_subcat="3">
+        <level_2 id="Rood" name="Rood" />
+        <level_2 id="Wit" name="Wit" />
+        <level_2 id="Zwart" name="Zwart" />
+      </level_1>
+      <level_1 id="Heren" name="Heren" num_subcat="8">
+        <level_2 id="Blauw" name="Blauw" />
+        <level_2 id="Blauw" name="Blauw" />
+        <level_2 id="Bruin" name="Bruin" />
+        <level_2 id="Groen" name="Groen" />
+        <level_2 id="Rood" name="Rood" />
+        <level_2 id="Wit" name="Wit" />
+        <level_2 id="Zwart" name="Zwart" />
+        <level_2 id="Zwart" name="Zwart" />
+      </level_1>
+    </maincat>
+    <maincat id="Xerox" name="Xerox" num_subcat="2">
+      <level_1 id="Phaser" name="Phaser" num_subcat="132">
+        <level_2 id="Phaser 3100" name="Phaser 3100" />
+        <level_2 id="Phaser 3100MFP" name="Phaser 3100MFP" />
+        <level_2 id="Phaser 3117" name="Phaser 3117" />
+        <level_2 id="Phaser 3120" name="Phaser 3120" />
+        <level_2 id="Phaser 3121" name="Phaser 3121" />
+        <level_2 id="Phaser 3122" name="Phaser 3122" />
+        <level_2 id="Phaser 3124" name="Phaser 3124" />
+        <level_2 id="Phaser 3125" name="Phaser 3125" />
+        <level_2 id="Phaser 3125N" name="Phaser 3125N" />
+        <level_2 id="Phaser 3130" name="Phaser 3130" />
+        <level_2 id="Phaser 6110" name="Phaser 6110" />
+        <level_2 id="Phaser 6110" name="Phaser 6110" />
+        <level_2 id="Phaser 6110" name="Phaser 6110" />
+        <level_2 id="Phaser 6110" name="Phaser 6110" />
+        <level_2 id="Phaser 6110MFP/B" name="Phaser 6110MFP/B" />
+        <level_2 id="Phaser 6110MFP/S" name="Phaser 6110MFP/S" />
+        <level_2 id="Phaser 6110MFP/X" name="Phaser 6110MFP/X" />
+        <level_2 id="Phaser 6110N" name="Phaser 6110N" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121" name="Phaser 6121" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP" name="Phaser 6121MFP" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/D" name="Phaser 6121MFP/D" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/N" name="Phaser 6121MFP/N" />
+        <level_2 id="Phaser 6121MFP/S" name="Phaser 6121MFP/S" />
+        <level_2 id="Phaser 6121MFP/S" name="Phaser 6121MFP/S" />
+        <level_2 id="Phaser 6121MFP/S" name="Phaser 6121MFP/S" />
+        <level_2 id="Phaser 6121MFP/S" name="Phaser 6121MFP/S" />
+        <level_2 id="Phaser 6121MFP/S" name="Phaser 6121MFP/S" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125" name="Phaser 6125" />
+        <level_2 id="Phaser 6125N" name="Phaser 6125N" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128" name="Phaser 6128" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6128MFP" name="Phaser 6128MFP" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130" name="Phaser 6130" />
+        <level_2 id="Phaser 6130N" name="Phaser 6130N" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140" name="Phaser 6140" />
+        <level_2 id="Phaser 6140DN" name="Phaser 6140DN" />
+        <level_2 id="Phaser 6140N" name="Phaser 6140N" />
+        <level_2 id="Phaser 6180" name="Phaser 6180" />
+        <level_2 id="Phaser 6180" name="Phaser 6180" />
+        <level_2 id="Phaser 6180" name="Phaser 6180" />
+        <level_2 id="Phaser 6180" name="Phaser 6180" />
+        <level_2 id="Phaser 6180" name="Phaser 6180" />
+        <level_2 id="Phaser 6180MFP" name="Phaser 6180MFP" />
+        <level_2 id="Phaser 6180MFP" name="Phaser 6180MFP" />
+        <level_2 id="Phaser 6180MFP" name="Phaser 6180MFP" />
+        <level_2 id="Phaser 6180MFP" name="Phaser 6180MFP" />
+        <level_2 id="Phaser 6500" name="Phaser 6500" />
+        <level_2 id="Phaser 6500" name="Phaser 6500" />
+        <level_2 id="Phaser 6500" name="Phaser 6500" />
+        <level_2 id="Phaser 6500" name="Phaser 6500" />
+        <level_2 id="Phaser 6500" name="Phaser 6500" />
+        <level_2 id="Phaser 6500dn" name="Phaser 6500dn" />
+        <level_2 id="Phaser 6500dn" name="Phaser 6500dn" />
+        <level_2 id="Phaser 6500dn" name="Phaser 6500dn" />
+        <level_2 id="Phaser 6500dn" name="Phaser 6500dn" />
+        <level_2 id="Phaser 6500dn" name="Phaser 6500dn" />
+        <level_2 id="Phaser 6500n" name="Phaser 6500n" />
+        <level_2 id="Phaser 6500n" name="Phaser 6500n" />
+        <level_2 id="Phaser 6500n" name="Phaser 6500n" />
+        <level_2 id="Phaser 6500n" name="Phaser 6500n" />
+        <level_2 id="Phaser 6500n" name="Phaser 6500n" />
+        <level_2 id="Phaser 6600" name="Phaser 6600" />
+        <level_2 id="Phaser 6600" name="Phaser 6600" />
+        <level_2 id="Phaser 6600" name="Phaser 6600" />
+        <level_2 id="Phaser 6600" name="Phaser 6600" />
+        <level_2 id="Phaser 6600" name="Phaser 6600" />
+        <level_2 id="Phaser 6600dn" name="Phaser 6600dn" />
+        <level_2 id="Phaser 6600dn" name="Phaser 6600dn" />
+        <level_2 id="Phaser 6600dn" name="Phaser 6600dn" />
+        <level_2 id="Phaser 6600dn" name="Phaser 6600dn" />
+        <level_2 id="Phaser 6600dn" name="Phaser 6600dn" />
+        <level_2 id="Phaser 6600dnm" name="Phaser 6600dnm" />
+        <level_2 id="Phaser 6600dnm" name="Phaser 6600dnm" />
+        <level_2 id="Phaser 6600dnm" name="Phaser 6600dnm" />
+        <level_2 id="Phaser 6600dnm" name="Phaser 6600dnm" />
+        <level_2 id="Phaser 6600dnm" name="Phaser 6600dnm" />
+        <level_2 id="Phaser 6600n" name="Phaser 6600n" />
+        <level_2 id="Phaser 6600n" name="Phaser 6600n" />
+        <level_2 id="Phaser 6600n" name="Phaser 6600n" />
+        <level_2 id="Phaser 6600n" name="Phaser 6600n" />
+        <level_2 id="Phaser 6600n" name="Phaser 6600n" />
+        <level_2 id="Phaser 6600v_dnm" name="Phaser 6600v_dnm" />
+        <level_2 id="Phaser 6600v_dnm" name="Phaser 6600v_dnm" />
+        <level_2 id="Phaser 6600v_dnm" name="Phaser 6600v_dnm" />
+        <level_2 id="Phaser 6600v_dnm" name="Phaser 6600v_dnm" />
+        <level_2 id="Phaser 6600v_dnm" name="Phaser 6600v_dnm" />
+      </level_1>
+      <level_1 id="Workcentre" name="Workcentre" num_subcat="43">
+        <level_2 id="Workcentre 3210" name="Workcentre 3210" />
+        <level_2 id="Workcentre 3220" name="Workcentre 3220" />
+        <level_2 id="Workcentre 6505" name="Workcentre 6505" />
+        <level_2 id="Workcentre 6505" name="Workcentre 6505" />
+        <level_2 id="Workcentre 6505" name="Workcentre 6505" />
+        <level_2 id="Workcentre 6505" name="Workcentre 6505" />
+        <level_2 id="Workcentre 6505" name="Workcentre 6505" />
+        <level_2 id="Workcentre 6505dn" name="Workcentre 6505dn" />
+        <level_2 id="Workcentre 6505dn" name="Workcentre 6505dn" />
+        <level_2 id="Workcentre 6505dn" name="Workcentre 6505dn" />
+        <level_2 id="Workcentre 6505dn" name="Workcentre 6505dn" />
+        <level_2 id="Workcentre 6505dn" name="Workcentre 6505dn" />
+        <level_2 id="Workcentre 6505n" name="Workcentre 6505n" />
+        <level_2 id="Workcentre 6505n" name="Workcentre 6505n" />
+        <level_2 id="Workcentre 6505n" name="Workcentre 6505n" />
+        <level_2 id="Workcentre 6505n" name="Workcentre 6505n" />
+        <level_2 id="Workcentre 6505n" name="Workcentre 6505n" />
+        <level_2 id="Workcentre 6605" name="Workcentre 6605" />
+        <level_2 id="Workcentre 6605" name="Workcentre 6605" />
+        <level_2 id="Workcentre 6605" name="Workcentre 6605" />
+        <level_2 id="Workcentre 6605" name="Workcentre 6605" />
+        <level_2 id="Workcentre 6605" name="Workcentre 6605" />
+        <level_2 id="Workcentre 6605dn" name="Workcentre 6605dn" />
+        <level_2 id="Workcentre 6605dn" name="Workcentre 6605dn" />
+        <level_2 id="Workcentre 6605dn" name="Workcentre 6605dn" />
+        <level_2 id="Workcentre 6605dn" name="Workcentre 6605dn" />
+        <level_2 id="Workcentre 6605dn" name="Workcentre 6605dn" />
+        <level_2 id="Workcentre 6605dnm" name="Workcentre 6605dnm" />
+        <level_2 id="Workcentre 6605dnm" name="Workcentre 6605dnm" />
+        <level_2 id="Workcentre 6605dnm" name="Workcentre 6605dnm" />
+        <level_2 id="Workcentre 6605dnm" name="Workcentre 6605dnm" />
+        <level_2 id="Workcentre 6605dnm" name="Workcentre 6605dnm" />
+        <level_2 id="Workcentre 6605n" name="Workcentre 6605n" />
+        <level_2 id="Workcentre 6605n" name="Workcentre 6605n" />
+        <level_2 id="Workcentre 6605n" name="Workcentre 6605n" />
+        <level_2 id="Workcentre 6605n" name="Workcentre 6605n" />
+        <level_2 id="Workcentre 6605n" name="Workcentre 6605n" />
+        <level_2 id="Workcentre PE120" name="Workcentre PE120" />
+        <level_2 id="Workcentre PE120i" name="Workcentre PE120i" />
+        <level_2 id="Workcentre PE16" name="Workcentre PE16" />
+        <level_2 id="Workcentre PE16" name="Workcentre PE16" />
+        <level_2 id="Workcentre PE16e" name="Workcentre PE16e" />
+        <level_2 id="Workcentre PE16I" name="Workcentre PE16I" />
+      </level_1>
+    </maincat>
+  </categories>
+</resultlist>
